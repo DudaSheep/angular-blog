@@ -8,13 +8,13 @@ export const dataFake = [
     {
         "id": "2",
         "image": "https://s2-techtudo.glbimg.com/LgPcIJx_pHRi-4gXBNke-Bi7Uj0=/0x0:1200x700/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/u/U/wASifvRzezZ2o288RjHA/yellowjackets-1-.jpg",
-        "title": "Nova serie YJ traz novos misterios",
+        "title": "Nova serie YJ explora novos mistérios",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
         "id": "3",
         "image": "https://criticalhits.com.br/wp-content/uploads/2025/01/1737405051000.jpg",
-        "title": "Severence estreia sua 2 temporada",
+        "title": "Severance estreia sua 2 temporada",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {

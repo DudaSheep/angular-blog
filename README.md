@@ -1,27 +1,48 @@
-# AngularBlog
+# 📺🎬 | AngularBlog - Blog TvShows | 🎞️🍿
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
+---
 
-## Development server
+## 🚀 Descrição do Projeto
+Este projeto é um blog dinâmico e informativo construído com Angular, dedicado a fornecer as últimas notícias, análises e atualizações sobre seus programas de TV favoritos. Com uma interface responsiva e dinâmica, o blog permite que os fãs de TV se mantenham atualizados sobre seus programas preferidos.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## ⚙️ Configuração do Projeto
 
-## Code scaffolding
+1.  **Clone o repositório:**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+    ```bash
+    git clone https://github.com/DudaSheep/angular-blog.git
+    ```
 
-## Build
+2.  **Navegue até o diretório do projeto:**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+    ```bash
+    cd angular-blog
+    ```
 
-## Running unit tests
+3.  **Execute a aplicação:**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+    ```bash
+    npm install
+    ng serve
+    ```
 
-## Running end-to-end tests
+4.  **Acesse a documentação do Swagger:**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+    Abra o navegador e acesse `http://localhost:4200/`.
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## ️✨ Tecnologias Utilizadas
+
+- ▶️ Angular  
+- ▶️ HTML 
+- ▶️ CSS  
+- ▶️ TypeScript 
+
+---
+
+## ️ Imagem do Projeto
+
+![PaginaInicial](/src/assets/imgs/img1.PNG)
+---
+![PaginaInicial](/src/assets/imgs/img2.PNG)
